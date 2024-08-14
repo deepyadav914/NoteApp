@@ -48,7 +48,7 @@ class _InsertscreenState extends State<Insertscreen> {
                   borderRadius: BorderRadius.circular(10),
                 ),
                 focusedBorder: const OutlineInputBorder(
-                  borderSide: BorderSide(color: Colors.blue, width: 2),
+                  borderSide: BorderSide(color: Colors.black, width: 1),
                 ),
                 // labelText: "Title",
                 // labelStyle: const TextStyle(
@@ -85,7 +85,7 @@ class _InsertscreenState extends State<Insertscreen> {
                   borderRadius: BorderRadius.circular(10),
                 ),
                 focusedBorder: const OutlineInputBorder(
-                  borderSide: BorderSide(color: Colors.blue, width: 2),
+                  borderSide: BorderSide(color: Colors.black, width: 1),
                 ),
                 // labelText: "description",
                 // labelStyle: const TextStyle(
